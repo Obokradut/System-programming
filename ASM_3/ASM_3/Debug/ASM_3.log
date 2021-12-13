@@ -1,0 +1,8 @@
+﻿  ASM_3.cpp
+E:\Учёба\3 курс\ASM_3\ASM_3\ASM_3.cpp(23): warning C4405: str: идентификатор является зарезервированным словом
+E:\Учёба\3 курс\ASM_3\ASM_3\ASM_3.cpp(94): warning C4405: str: идентификатор является зарезервированным словом
+E:\Учёба\3 курс\ASM_3\ASM_3\ASM_3.cpp(133): warning C4405: str: идентификатор является зарезервированным словом
+E:\Учёба\3 курс\ASM_3\ASM_3\ASM_3.cpp(106,13): warning C4102: StartCopy: неиспользованная метка
+E:\Учёба\3 курс\ASM_3\ASM_3\ASM_3.cpp(116,1): warning C4102: FirstBiggerLength: неиспользованная метка
+E:\Учёба\3 курс\ASM_3\ASM_3\ASM_3.cpp(122,1): warning C4102: CheckLengthCopy: неиспользованная метка
+  ASM_3.vcxproj -> E:\Учёба\3 курс\ASM_3\Debug\ASM_3.exe
